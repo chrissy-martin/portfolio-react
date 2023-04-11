@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chrissy-martin/portfolio-react/static/css/main.7484204b.css",
+    "main.js": "/chrissy-martin/portfolio-react/static/js/main.ed37f3ba.js",
+    "static/js/496.ec392547.chunk.js": "/chrissy-martin/portfolio-react/static/js/496.ec392547.chunk.js",
+    "static/media/homepage.jpg": "/chrissy-martin/portfolio-react/static/media/homepage.fd01632f399a0e9e21b7.jpg",
+    "static/media/kali.jpg": "/chrissy-martin/portfolio-react/static/media/kali.cc55e679beb98a2b62c5.jpg",
+    "static/media/b88f983b-06ae-4405-82f7-265ecc17e8d5.png": "/chrissy-martin/portfolio-react/static/media/b88f983b-06ae-4405-82f7-265ecc17e8d5.e79d50df90a58e964c0a.png",
+    "static/media/vecteezyBeerDayBackgroundfv0621_generated.jpg": "/chrissy-martin/portfolio-react/static/media/vecteezyBeerDayBackgroundfv0621_generated.62cfc0b6376c8951a5e0.jpg",
+    "static/media/chrissy-photo.jpg": "/chrissy-martin/portfolio-react/static/media/chrissy-photo.b12a4a9988340274ef24.jpg",
+    "static/media/tracking-employee-computer-activity-1600.jpg": "/chrissy-martin/portfolio-react/static/media/tracking-employee-computer-activity-1600.ba4239268a851dee7ee6.jpg",
+    "static/media/Martin_Chrissy_Resume2023.pdf": "/chrissy-martin/portfolio-react/static/media/Martin_Chrissy_Resume2023.78ff29d3a48c599c378c.pdf",
+    "static/media/536245.jpg": "/chrissy-martin/portfolio-react/static/media/536245.666f1a2d062c9561666f.jpg",
+    "static/media/team-company-profile-template.jpeg": "/chrissy-martin/portfolio-react/static/media/team-company-profile-template.a3ce42f0331472d1612f.jpeg",
+    "index.html": "/chrissy-martin/portfolio-react/index.html",
+    "main.7484204b.css.map": "/chrissy-martin/portfolio-react/static/css/main.7484204b.css.map",
+    "main.ed37f3ba.js.map": "/chrissy-martin/portfolio-react/static/js/main.ed37f3ba.js.map",
+    "496.ec392547.chunk.js.map": "/chrissy-martin/portfolio-react/static/js/496.ec392547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7484204b.css",
+    "static/js/main.ed37f3ba.js"
+  ]
+}
