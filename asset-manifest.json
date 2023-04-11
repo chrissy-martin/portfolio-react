@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.135b73a0.css",
-    "main.js": "./static/js/main.5571ec16.js",
-    "static/js/496.ec392547.chunk.js": "./static/js/496.ec392547.chunk.js",
-    "static/media/homepage.jpg": "./static/media/homepage.fd01632f399a0e9e21b7.jpg",
-    "static/media/kali.jpg": "./static/media/kali.cc55e679beb98a2b62c5.jpg",
-    "static/media/b88f983b-06ae-4405-82f7-265ecc17e8d5.png": "./static/media/b88f983b-06ae-4405-82f7-265ecc17e8d5.e79d50df90a58e964c0a.png",
-    "static/media/vecteezyBeerDayBackgroundfv0621_generated.jpg": "./static/media/vecteezyBeerDayBackgroundfv0621_generated.62cfc0b6376c8951a5e0.jpg",
-    "static/media/chrissy-photo.jpg": "./static/media/chrissy-photo.b12a4a9988340274ef24.jpg",
-    "static/media/tracking-employee-computer-activity-1600.jpg": "./static/media/tracking-employee-computer-activity-1600.ba4239268a851dee7ee6.jpg",
-    "static/media/Martin_Chrissy_Resume2023.pdf": "./static/media/Martin_Chrissy_Resume2023.78ff29d3a48c599c378c.pdf",
-    "static/media/536245.jpg": "./static/media/536245.666f1a2d062c9561666f.jpg",
-    "static/media/team-company-profile-template.jpeg": "./static/media/team-company-profile-template.a3ce42f0331472d1612f.jpeg",
-    "index.html": "./index.html",
-    "main.135b73a0.css.map": "./static/css/main.135b73a0.css.map",
-    "main.5571ec16.js.map": "./static/js/main.5571ec16.js.map",
-    "496.ec392547.chunk.js.map": "./static/js/496.ec392547.chunk.js.map"
+    "main.css": "/portfolio-react/static/css/main.1ca0366a.css",
+    "main.js": "/portfolio-react/static/js/main.12dab500.js",
+    "static/js/496.ec392547.chunk.js": "/portfolio-react/static/js/496.ec392547.chunk.js",
+    "static/media/homepage.jpg": "/portfolio-react/static/media/homepage.fd01632f399a0e9e21b7.jpg",
+    "static/media/kali.jpg": "/portfolio-react/static/media/kali.cc55e679beb98a2b62c5.jpg",
+    "static/media/b88f983b-06ae-4405-82f7-265ecc17e8d5.png": "/portfolio-react/static/media/b88f983b-06ae-4405-82f7-265ecc17e8d5.e79d50df90a58e964c0a.png",
+    "static/media/vecteezyBeerDayBackgroundfv0621_generated.jpg": "/portfolio-react/static/media/vecteezyBeerDayBackgroundfv0621_generated.62cfc0b6376c8951a5e0.jpg",
+    "static/media/chrissy-photo.jpg": "/portfolio-react/static/media/chrissy-photo.b12a4a9988340274ef24.jpg",
+    "static/media/tracking-employee-computer-activity-1600.jpg": "/portfolio-react/static/media/tracking-employee-computer-activity-1600.ba4239268a851dee7ee6.jpg",
+    "static/media/Martin_Chrissy_Resume2023.pdf": "/portfolio-react/static/media/Martin_Chrissy_Resume2023.78ff29d3a48c599c378c.pdf",
+    "static/media/536245.jpg": "/portfolio-react/static/media/536245.666f1a2d062c9561666f.jpg",
+    "static/media/team-company-profile-template.jpeg": "/portfolio-react/static/media/team-company-profile-template.a3ce42f0331472d1612f.jpeg",
+    "index.html": "/portfolio-react/index.html",
+    "main.1ca0366a.css.map": "/portfolio-react/static/css/main.1ca0366a.css.map",
+    "main.12dab500.js.map": "/portfolio-react/static/js/main.12dab500.js.map",
+    "496.ec392547.chunk.js.map": "/portfolio-react/static/js/496.ec392547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.135b73a0.css",
-    "static/js/main.5571ec16.js"
+    "static/css/main.1ca0366a.css",
+    "static/js/main.12dab500.js"
   ]
 }
